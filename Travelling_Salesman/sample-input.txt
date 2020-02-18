@@ -1,0 +1,8 @@
+// No of cities?
+4
+
+// Enter distances of each city from every other city(Assumption-Given edge costs represent distances between cities, hence input[i][j]=0 when i==j and input[i][j]>0 when i!=j)
+0 4 1 9
+3 0 6 11
+4 1 0 2
+6 5 2 0
