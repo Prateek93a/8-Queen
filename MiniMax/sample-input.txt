@@ -1,0 +1,5 @@
+## Number of Sticks?
+15
+
+## Type of Game? (1:AI vs AI, 2: AI vs User, 3: User vs User)
+1

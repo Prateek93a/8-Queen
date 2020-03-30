@@ -1,0 +1,53 @@
+## AI vs AI - 15 Sticks
+AI 2 chose 2 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 looses the game!
+
+## AI vs AI - 21 Sticks
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 3 sticks to reduce.
+AI 1 looses the game!
+
+## AI vs AI - 53 Sticks
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 1 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 chose 1 sticks to reduce.
+AI 1 chose 3 sticks to reduce.
+AI 2 looses the game!
