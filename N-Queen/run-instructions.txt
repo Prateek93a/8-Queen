@@ -1,0 +1,2 @@
+To test the code, run -> g++ solution.cpp
+                      -> ./a.out
